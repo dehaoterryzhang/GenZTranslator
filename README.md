@@ -22,10 +22,6 @@ Welcome to the GenZ Translator! This app translates text between formal English 
 
 ### Steps
 1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/yourusername/formal2genz-translator.git
-    cd formal2genz-translator
-    ```
 
 2. **Create a virtual environment:**
     ```bash
